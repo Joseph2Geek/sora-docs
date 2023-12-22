@@ -1,12 +1,12 @@
 ---
-title: Token Bonding Curve Dollar (TBCD) | SORA Docs
+title: 代币绑定曲线美元 (TBCD) | SORA 文档
 head:
   - - meta
-    - name: description
-      content: Learn about the Token Bonding Curve Dollar, the algorithmic, non-synthetic stablecoin that has its value maintained by the SORA token bonding curve. Explore how TBCD helps to build up the reserves of the SORA token bonding curve, while also being used to fund the creation of new goods and services within the SORA ecosystem.
+    - name: 描述
+      content: 了解代币绑定曲线美元（TBCD），这是一种算法性的非合成稳定币，其价值由SORA代币的绑定曲线维持。探索TBCD如何帮助建立SORA代币绑定曲线的储备，同时用于资助SORA生态系统中新商品和服务的创造。
   - - meta
-    - name: keywords
-      content: TBCD token, bridge token, Ethereum network, SORA network, asset transfer, interoperability, cross-chain transactions, liquidity, decentralized finance, DeFi
+    - name: 关键词
+      content: TBCD代币，桥接代币，以太坊网络，SORA网络，资产转移，互操作性，跨链交易，流动性，去中心化金融，DeFi
 ---
 
 # 代币绑定曲线美元 (TBCD)
@@ -18,7 +18,7 @@ head:
 
 ## 为什么要实施代币绑定曲线美元 (TBCD)
 
-SORA生态系统多年来不断壮大，如今已有许多代币和[多元化的](https://cerestoken.io) [构建者](https://adar.com)。随着发展，成熟也随之而来，最近，SORA正朝着将合成稳定币XSTUSD分拆出来，形成全面的 SORA合成 (XST)  平台迈进。
+SORA生态系统多年来不断壮大，如今已有许多代币和[多元化的](https://cerestoken.io) [构建者](https://adar.com)。随着发展，成熟也随之而来，最近，SORA正朝着将合成稳定币XSTUSD分拆出来，形成全面的[SORA合成 XST 平台迈进。
 
 然而，我们参与机构项目的许多合作伙伴还没有准备好用SORA网络的原生代币XOR来定价所有东西。相反，他们需要一种代币，可以随需转换为XOR，但又与美元挂钩。
 
